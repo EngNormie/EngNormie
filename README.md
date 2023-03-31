@@ -35,6 +35,6 @@ My ultimate career goal is to be a global leader in high-tech business strategy 
 
 [Linkedin](https://www.linkedin.com/in/normangwangwava/)
 
-[Medium]
+[Medium](https://medium.com/@engnormie_)
 
 [Blog](https://engnormie.wordpress.com/)
