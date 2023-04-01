@@ -40,3 +40,5 @@ My ultimate career goal is to be a global leader in high-tech business strategy 
 [Tableau](https://tableau.com/engnormie)
 
 [Novpro](https://novpro.com/engnormie)
+
+[Medium](https://medium.com/engnormie)
