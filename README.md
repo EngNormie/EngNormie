@@ -2,7 +2,7 @@
 
 ### Hi 👋
 
-I am an expert Power Platform Developer, Business Process Automation, and Business Intelligence Engineer with a strong background in Industrial Engineering. I have sound skills, with certification, in Microsoft Power Platform, Data Analysis and Visualization, Lean Six Sigma, & SCRUM. 
+Microsoft Dynamics 365 and Power Platform Developer, Business Process Automation, and Business Intelligence Engineer with a strong background in Industrial Engineering. I have sound skills, with certification, in Microsoft Power Platform, Data Analysis and Visualization, Lean Six Sigma, & SCRUM. 
 
 I use these skills to improve everyday work tasks, as well as more intricate automation. I have over 10 years of experience in continuous process improvement, designing business applications, databases, and visuals, as well as coaching and mentorship in various corporate and manufacturing environments. My astute knowledge in operations, quality, and supply chain drives my passion to create user friendly and optimal solutions for enterprises. 
 
