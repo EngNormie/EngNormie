@@ -2,7 +2,7 @@
 
 ### Hi 👋
 
-I'm a Microsoft Dynamics 365 and Power Platform Developer, experienced in Business Process Automation, and Business Intelligence Engineering with a strong background in Industrial Engineering. I have sound skills, with certification, in Microsoft Power Platform, Data Analysis and Visualization, Lean Six Sigma, & SCRUM. 
+I'm a Microsoft Dynamics 365 and Power Platform Developer, experienced in Business Process Automation, Business Intelligence Engineering, Machine Learning and AI, with a strong background in Industrial Engineering. I have sound skills, with certification, in Microsoft Power Platform, Data Analysis and Visualization, Lean Six Sigma, & SCRUM. 
 
 I use these skills to improve everyday work tasks, as well as more intricate automation. I have over 10 years of experience in continuous process improvement, designing business applications, databases, and visuals, as well as coaching and mentorship in various corporate and manufacturing environments. My astute knowledge in operations, quality, and supply chain drives my passion to create user friendly and optimal solutions for enterprises. 
 
@@ -18,17 +18,17 @@ My ultimate career goal is to be a global leader in high-tech business strategy 
 
 | Topic                                            | Summary                                                                            |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| [Quick Tips](https://github.com/EngNormie/Quick-Tips) | Tech tips for                                                                 |
+| [Quick Tips](https://github.com/EngNormie/Quick-Tips) | Hacks that make you a pro in the tech field. These include CMD and shell commands, quck setting up IDEs and other how to-s |
 | [Data Analysis](https://github.com/EngNormie/Projects-Portfolio) | Practical guides on Exploratory Data Analysis (EDA), data visualization, and data modeling using Excel and SQL |
 | [Supervised Learning](https://github.com/EngNormie/Projects-Portfolio) | Selected real business problems of machine learning that use labeled datasets to train algorithms to predict outcomes and recognize patterns  |
 | [Unsupervised Learning](https://github.com/EngNormie/Projects-Portfolio) | Demonstration of machine learning algorithms that use unlabeled data to discover patterns and relationships in the data without any explicit guidance. |
-| [Reinforcement Learning](https://github.com/EngNormie/Projects-Portfolio) |                    |
-| [Natural Language Processing (NLP)](https://github.com/EngNormie/Projects-Portfolio) |          |
-| [Computer Vision (CV)](https://github.com/EngNormie/Projects-Portfolio) |                       |
-| [Generative AI](https://github.com/EngNormie/Projects-Portfolio) |                              |
-| Business Process Modeling and Automation (BPM/BPA) |                                            |
-| [Power Platform Developer](https://github.com/EngNormie/Projects-Portfolio) |                   |
-| [Robotic Process Automation (RPA)](https://github.com/EngNormie/Projects-Portfolio) |            |
+| [Reinforcement Learning](https://github.com/EngNormie/Projects-Portfolio) | Learning to make decisions by performing actions in an environment and receiving rewards or penalties. |
+| [Natural Language Processing (NLP)](https://github.com/EngNormie/Projects-Portfolio) | NLP powers many applications that use language, such as text translation, voice recognition, text summarization, and chatbots. |
+| [Computer Vision (CV)](https://github.com/EngNormie/Projects-Portfolio) | Projects covering computer vision tasks such as object detection, tracking and image classification among others |
+| [Generative AI](https://github.com/EngNormie/Projects-Portfolio) | Guides and projects for **AI** capable of generating text, images, videos, or other data using generative models, often in response to prompts |
+| Business Process Modeling(BPM) | Learn the toolkits for - and the practice of - back-engineering each process in your business to understand the different components needed to achieve the goal and finding potential improvements for each component |
+| [Power Platform Developer](https://github.com/EngNormie/Projects-Portfolio) | Contribute to the growth of **Workplace Transformation** by assisting enterprises adopt Microsoft Power Platform (Power Apps, Power Automate, Power BI, Power Pages, AI Builder) |
+| [Robotic Process Automation (RPA)](https://github.com/EngNormie/Projects-Portfolio) | Business use-cases demonstrating identifying automation opportunities, creating efficient automated workflows, and maintaining and enhancing existing bots to improve business processes and operations. Features RPA tools, creating bots, workflows, and automation scripts |
 
 
 ## 🔭Tech Stack:🔭
