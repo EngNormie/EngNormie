@@ -2,7 +2,7 @@
 
 ### Hi 👋
 
-Microsoft Dynamics 365 and Power Platform Developer, Business Process Automation, and Business Intelligence Engineer with a strong background in Industrial Engineering. I have sound skills, with certification, in Microsoft Power Platform, Data Analysis and Visualization, Lean Six Sigma, & SCRUM. 
+I'm a Microsoft Dynamics 365 and Power Platform Developer, experienced in Business Process Automation, and Business Intelligence Engineering with a strong background in Industrial Engineering. I have sound skills, with certification, in Microsoft Power Platform, Data Analysis and Visualization, Lean Six Sigma, & SCRUM. 
 
 I use these skills to improve everyday work tasks, as well as more intricate automation. I have over 10 years of experience in continuous process improvement, designing business applications, databases, and visuals, as well as coaching and mentorship in various corporate and manufacturing environments. My astute knowledge in operations, quality, and supply chain drives my passion to create user friendly and optimal solutions for enterprises. 
 
@@ -16,10 +16,19 @@ My ultimate career goal is to be a global leader in high-tech business strategy 
 
 ## 🔥Open Source & Projects:🔥
 
-| Topic      | Summary |
-| ----------- | ----------- |
-| Quick Tips      | Tech tips for       |
-| Data Analysis   | Text        |
+| Topic                                            | Summary                                                                            |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| [Quick Tips](https://github.com/EngNormie/Quick-Tips) | Tech tips for                                                                 |
+| [Data Analysis](https://github.com/EngNormie/Projects-Portfolio) | Practical guides on Exploratory Data Analysis (EDA), data visualization, and data modeling using Excel and SQL |
+| [Supervised Learning](https://github.com/EngNormie/Projects-Portfolio) | Selected real business problems of machine learning that use labeled datasets to train algorithms to predict outcomes and recognize patterns  |
+| [Unsupervised Learning](https://github.com/EngNormie/Projects-Portfolio) | Demonstration of machine learning algorithms that use unlabeled data to discover patterns and relationships in the data without any explicit guidance. |
+| [Reinforcement Learning](https://github.com/EngNormie/Projects-Portfolio) |                    |
+| [Natural Language Processing (NLP)](https://github.com/EngNormie/Projects-Portfolio) |          |
+| [Computer Vision (CV)](https://github.com/EngNormie/Projects-Portfolio) |                       |
+| [Generative AI](https://github.com/EngNormie/Projects-Portfolio) |                              |
+| Business Process Modeling and Automation (BPM/BPA) |                                            |
+| [Power Platform Developer](https://github.com/EngNormie/Projects-Portfolio) |                   |
+| [Robotic Process Automation (RPA)](https://github.com/EngNormie/Projects-Portfolio) |            |
 
 
 ## 🔭Tech Stack:🔭
