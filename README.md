@@ -14,6 +14,14 @@ I believe in continuous learning. Besides developing apps and dashboards in Powe
 My ultimate career goal is to be a global leader in high-tech business strategy development, research and solution development in ethical Artificial Intelligence for human and business good. I desire to see automation and predictive capabilities improve performance and reduce mundane, repetitive tasks.
 </details>
 
+## 🔥Open Source & Projects:🔥
+
+| Topic      | Summary |
+| ----------- | ----------- |
+| Quick Tips      | Tech tips for       |
+| Data Analysis   | Text        |
+
+
 ## 🔭Tech Stack:🔭
 
 ● Microsoft Power Platform: Power BI | Power Pages | Power Automate | Power Virtual Agent Chatbots | SharePoint | AI Builder | Custom Connectors
