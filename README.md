@@ -52,8 +52,8 @@ My ultimate career goal is to be a global leader in high-tech business strategy 
     <img src="https://github.com/user-attachments/assets/c384cc8a-19d7-4bef-bc04-cd056fcbe87b"  width="4%" alt="image" /> |
 <a href="https://www.microsoft.com/en-us/dynamics-365">
     <img src="https://github.com/user-attachments/assets/6d42d4b2-1a2c-425a-ac28-7375b7f53f64"  width="3%" alt="image" /> |
-
-
+<a href="https://www.microsoft365.com/">
+    <img src="https://github.com/user-attachments/assets/fd1fd3c9-3273-46cf-9722-d771419c58fb"  width="4%" alt="image" /> |
 
 
 ● Robotic Process Automation (RPA):
@@ -92,7 +92,6 @@ My ultimate career goal is to be a global leader in high-tech business strategy 
     <img src="https://github.com/user-attachments/assets/4b562775-10ce-4252-b506-e2d1d2c442c4"  width="5%" alt="image" /> |
 <a href="https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/inference">
     <img src="https://github.com/user-attachments/assets/a59ab3ba-bbb0-4d98-9005-ffefba6d4dc0"  width="5%" alt="image" /> |
-
 
 
 ● Cloud & DevOps: 
